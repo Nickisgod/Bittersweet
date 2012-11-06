@@ -1,5 +1,6 @@
 Storyboards
--Janet is finishing them up
+-Edit current Storyboards
+-Remake Ending
 *Make into Animatic
 
 
@@ -8,6 +9,7 @@ character Construction
 -Biker
 *Classes on drawing the characters
 +Approach model sheets, expression sheets
++Redraw Character Size Comparison
 
 ToonBoom Presentation
 -Shane is leading
