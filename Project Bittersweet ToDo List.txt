@@ -3,10 +3,9 @@ Storyboards
 -Remake Ending
 *Make into Animatic
 
-
 character Construction
--Girl
--Biker
+-Cocoa
+-Chip
 *Classes on drawing the characters
 +Approach model sheets, expression sheets
 +Redraw Character Size Comparison
@@ -16,11 +15,9 @@ ToonBoom Presentation
 *Saturday is the Presentation
 *Get snacks
 
-
 Layout
 -Find Layout people
 *Begin Set Designs
-
 
 Audio
 -Find Audio People
