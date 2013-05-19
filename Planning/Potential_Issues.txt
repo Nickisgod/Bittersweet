@@ -1,0 +1,5 @@
+When importing an exported .swf into Flash, Flash does not keep transparency transitions. 
+
+This is crucial for the smoke wipe and then fade out. So we will try to animate the smoke seperately and use another program to fade it all out.
+
+Talk with Dave for advice on this.
